@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="banner.png" width="100%" alt="Hazratali Developer Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Hazratali</h1>
 
 <h3 align="center">
